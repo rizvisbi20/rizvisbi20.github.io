@@ -1,0 +1,24 @@
+---
+  output: md_document
+---
+
+```
+---
+permalink: /
+title: " About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+```
+
+I am a dedicated and self-motivated individual with a passion for statistics. I completed my Bachelor’s study and Master’s in Statistics, Biostatistics, and Informatics from the University of Dhaka, Bangladesh. 
+
+I joined as a Research Officer at the International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which is one of the most reputable research organizations in Bangladesh after completion of my Master’s degree, and was promoted to Senior Research Officer in the same organization next year. I worked with large populations and health facility information, including GIS mapping data of health facilities, and performed statistical and geospatial analyses. After that, I joined as a Statistician in projects named “AMANHI: Alliance for Maternal and Newborn Health Improvement”, “Assessment of the Effectiveness of Pneumococcal Conjugate Vaccine-10 (PCV10) in Bangladesh,” and “Pneumococcal Vaccine (PCV) Impact Assessment in Bangladesh” in Johns Hopkins University, USA (Bangladesh office). 
+
+I have been working as a Research Assistant with the Canadian Centre for the Study of Co-operatives (CCSC), within the Johnson Shoyama Graduate School of Public Policy (JSGS) and Saskatchewan Population Health and Evaluation Research Unit (SPHERU) at the University of Saskatchewan for more than 2 years. During this period, I worked on text-based data, where I managed it and applied different types of machine learning models such as dictionary application, unsupervised topic modelling, and network analysis. 
+
+During the period of my tenure, I have gained experience in data cleaning, advanced statistical analysis, and data visualization. In addition, I am skilled in R, SAS, and SQL in data management and analysis, and I have gained applied experience in Demography, Epidemiology, Biostatistics, Bioinformatics, eHealth and mHealth, big data, geospatial analysis, and web-based data visualization by using RShiny. I have also managed data of 700,000 women and their children and analyzed bimonthly follow-up data, including calculating mortality rate and hospital incidence rate. I have coauthored seven manuscripts published in different journals, including PLOS ONE, British Medical Journal (BMJ), BioMed Central (BMC), etc. I have attended several International Conferences on Public Health and Health Systems, which helped me to improve my knowledge in Health Research.
+I am a highly motivated, hard-working person with strong ethics with immense interest in statistics. My goal is to get advanced statistical skills in the field of applied research on Health, data science, and machine learning to establish myself as a successful researcher.

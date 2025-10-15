@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Syed Jafar Raza Rizvi"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc in Community and Population Health Science; Community Health & Epidemiology; University of Saskatchewan; Saskatoon,Canada. fall-20 (expected)
+* M.S. in in Statistics, Biostatistics & Informatics; University of Dhaka; Dhaka, Bangladesh. 2009 – 2010
+* B.S. in Statistics, Biostatistics & Informatics;  University of Dhaka; Dhaka, Bangladesh. 2005 - 2009
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Technician
+  * Community Health and Epidemiology; University of Saskatchewan; Saskatoon, Canada
+  * Duties
+    * Data analysis (Coding, interpretation, and synthesis).
+    * Collaborating with multidisciplinary team.
+    * Knowledge translation and mobilization.
+    * Contributing to dissemination of results, including collaborating on papers, infographics, posters, conference presentations
+  * April 2025-Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant 
+  * Community Health and Epidemiology; University of Saskatchewan; Saskatoon, Canada
+    * Duties
+      * Data analysis (Coding, interpretation, and synthesis).
+      * Knowledge translation and mobilization.
+      * Contributing to dissemination of results, including collaborating on papers, infographics, posters, conference presentations.
+  * May 2025-Present
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Assistant 
+  * College of Pharmacy & Nutrition; University of Saskatchewan; Saskatoon, Canada
+  * Duties 
+    * Data collection.
+    * Knowledge translation and mobilization.
+  * September 2024 - December 2024
+* Research Assistant 
+  * Saskatchewan Population Health and Evaluation Research Unit (SPHERU); University of Saskatchewan; Saskatoon, Canada.
+  * Duties 
+    * Data analysis (Coding, interpretation, and synthesis).
+    * Collaborating with multidisciplinary team.
+    * Knowledge translation and mobilization.
+    * Contributing to dissemination of results, including collaborating on papers, infographics, posters, conference presentations
+  * January 2023 – March 2025
+
   
 Skills
 ======
