@@ -11,6 +11,7 @@ I am a dedicated and self-motivated individual with a passion for
 statistics. I completed my Bachelor’s study and Master’s in Statistics,
 Biostatistics, and Informatics from the University of Dhaka, Bangladesh.
 
+
 I joined as a Research Officer at the International Centre for
 Diarrhoeal Disease Research, Bangladesh (icddr,b), which is one of the
 most reputable research organizations in Bangladesh after completion of

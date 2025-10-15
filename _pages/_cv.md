@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV of Syed Jafar Raza Rizvi"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,29 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-
-CORE STRENGTHS & KNOWLEDGE 
-======
-* Data Management 
-* Epidemiological Analysis
-* Interactive Dashboard Building
-* Surveillance Data Monitoring
-* Survey Design & Analysis
-* Data Forecasting
-* Geo-spatial Analysis
-* R-programing & RStudio
-* STATA
-* Statistical Analysis
-* Data Visualization
-* SAS
-
-EDUCATION 
+Education
 ======
 * M.Sc in Community and Population Health Science; Community Health & Epidemiology; University of Saskatchewan; Saskatoon,Canada. fall-20 (expected)
 * M.S. in in Statistics, Biostatistics & Informatics; University of Dhaka; Dhaka, Bangladesh. 2009 – 2010
 * B.S. in Statistics, Biostatistics & Informatics;  University of Dhaka; Dhaka, Bangladesh. 2005 - 2009
 
-EXPERIENCE
+Work experience
 ======
 * Research Technician
   * Community Health and Epidemiology; University of Saskatchewan; Saskatoon, Canada
@@ -113,26 +97,37 @@ EXPERIENCE
     * Managed data on MySQL and created scripts of the data based to convert data into a compatible format such as Excel, CSV, SPSS, STATA, and R.
     * Performed quantitative research tools, such as regression analysis, fundamental analysis and, geo-spatial analysis.
   * April 2013 – July 2014
+
+
+
   
-AWARDS & RECOGNITIONS
+Skills
 ======
-* Recipient of College of Medicine Graduate Student Awards (CoMGRAD)-2023
-* Recipient of 36th graduate summer course of Epidemiology and Biostatistics in graduate summer institute of Epidemiology and Biostatistics in Johns Hopkins Bloomberg School of Public Health-2018
-* 11th International Symposium on Pneumococci & Pneumococcal Disease (ISPPD-11) travel grant-2018
-* International Conference on Urban Health travel grant-2016
+* Skill 
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-TRAINING
+Publications
 ======
-* Public Health training at the Johns Hopkins Graduate Summer Institute of Epidemiology and Biostatistics under Johns Hopkins Bloomberg School of Public Health-2018
-* Training workshop on Demographic Analysis, United State Census Bureau-2016
-* Training of Trainers, International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)-2015
-* Training workshop on Sampling, International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b) and U.S. Department of Commerce, Bureau of Census-2015
-* Geo-spatial analysis for health, James P. Grant School of Public Health, BRAC University, Bangladesh-2014
-* Statistical Package for the Social Sciences (SPSS), University of Dhaka, Bangladesh-2011
-
-PDF
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
 ======
-You can download a PDF copy of my CV [here](/files/CV-rizvi.pdf).
-<iframe src="/files/CV-rizvi.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
-
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
