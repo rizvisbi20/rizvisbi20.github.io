@@ -27,7 +27,7 @@ CORE STRENGTHS & KNOWLEDGE
 
 EDUCATION 
 ======
-* M.Sc in Community and Population Health Science; Community Health & Epidemiology; University of Saskatchewan; Saskatoon,Canada. fall-20 (expected)
+* M.Sc in Community and Population Health Science; Community Health & Epidemiology; University of Saskatchewan; Saskatoon,Canada. fall-2025 (expected)
 * M.S. in in Statistics, Biostatistics & Informatics; University of Dhaka; Dhaka, Bangladesh. 2009 – 2010
 * B.S. in Statistics, Biostatistics & Informatics;  University of Dhaka; Dhaka, Bangladesh. 2005 - 2009
 
